@@ -1,0 +1,9 @@
+{
+  "directory": "/Users/dq_samanth/Documents/Github",
+  "name": "Benjamin-Moore-UK-Remediation",
+  "entry": "index.js",
+  "output": "amaze.deployable.js",
+  "scope": "benjaminmoorepaint.co.uk",
+  "i18n": "i18n.json",
+  "css": "global.css"
+}
